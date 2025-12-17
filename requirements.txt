@@ -1,0 +1,4 @@
+pinecone
+sentence-transformers
+llama-cpp-python
+python-dotenv
